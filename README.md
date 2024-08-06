@@ -1,3 +1,3 @@
 # Random Password Generator
 
-Demo: pbruss-random-password-generator.netlify.app
+Demo: https://pbruss-random-password-generator.netlify.app
